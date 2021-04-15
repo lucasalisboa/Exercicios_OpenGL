@@ -5,7 +5,13 @@ Repositório para exercícios da disciplina de Computação Gráfica ministrada 
 
 1. Certifique-se de que está com o OpenGL e o GCC instalado. 
 2. Para compilar, utilize o comando:
+
   ```gcc nome_do_arquivo.c -o novo_nome_do_arquivo.out -lglut -lGL -lGLU -lm ``` 
 
 3. Para executar o arquivo, utilize o comando:
+
    ```./novo_nome_do_arquivo.out```
+
+## Exercício 1 - Cubo_com_Piramide.c
+
+![Imagem_Cubo_com_Piramide.png]
