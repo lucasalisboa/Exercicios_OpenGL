@@ -14,4 +14,4 @@ Repositório para exercícios da disciplina de Computação Gráfica ministrada 
 
 ## Exercício 1 - Cubo_com_Piramide.c
 
-![Imagem_Cubo_com_Piramide.png]
+![Cubo_com_Piramide.c] (https://github.com/lucasalisboa/Exercicios_OpenGL/blob/main/Imagem_Cubo_com_Piramide.png)
